@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="txt_app_title">APP</string>
+    <string name="fake_login">usuario</string>
+    <string name="fake_password">senha</string>
+    <string name="hint_edt_login">Digite seu login</string>
+    <string name="hint_edt_password">Digite sua senha</string>
+    <string name="hint_chk_keep_connected">Manter conectado</string>
+    <string name="txt_btn_login">Entrar</string>
+    <string name="txt_btn_logout">Sair</string>
+    <string name="login_txt_wrong_credentials">Usuário e/ou senha incorretos</string>
+
+    <string name="panel_txt_greetings">Olá %s, \nVocê está no painel</string>
+</resources>
